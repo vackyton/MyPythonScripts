@@ -14,6 +14,7 @@ elif Password == "If You want more password copy this codestart to codeend":
 
     #The piece of Script that says wrong password codestart
 else:
+    time.sleep(10) #Torture the soul with a wait command
     print ("Wrong Password")
 
     #codeend
