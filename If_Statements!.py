@@ -3,7 +3,7 @@
 #   Made by Vackyton
 Password1 = input(" Enter the password to access files : ")
 if Password1 == "Wackyness":
-    print("Dwij likes Computers And Coding!")
+    print("Vackyton likes Computers And Coding!")
     #   Remember to make sure there is a space between the start of the line or it will not work
     #  This statement makes sure the password is right!Make sure it is lowercase or it will need to
     #   be perfect caps for ex:wackyness will return "Lol no" unless it is "Wackyness"
